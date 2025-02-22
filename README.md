@@ -29,4 +29,4 @@ This project was built using:
 - **HTML5**: Application structure.
 - **CSS3**: Styling and responsiveness.
 - **JavaScript**: Logic and dynamic interactions.
-- **React**
+- **React** : Create-react-app
