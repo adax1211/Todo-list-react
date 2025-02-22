@@ -19,7 +19,7 @@ You can add, remove, mark tasks as completed, and hide completed tasks. All of t
 
 ## Demo 🚀
 
-[![Visit Demo](https://img.shields.io/badge/Visit-Demo-blue?style=for-the-badge&logo=github)](https://adax1211.github.io/To-do-list/)
+[![Visit Demo](https://img.shields.io/badge/Visit-Demo-blue?style=for-the-badge&logo=github)](https://adax1211.github.io/Todo-list-react/)
 
 ---
 
@@ -29,3 +29,4 @@ This project was built using:
 - **HTML5**: Application structure.
 - **CSS3**: Styling and responsiveness.
 - **JavaScript**: Logic and dynamic interactions.
+- **React**
